@@ -32,4 +32,4 @@
 
 - per canviar els canvis nomes tenim que donar-li a commit i dins li donem "Commit and Push" per guardar els canvis que hem fet.
 
-![Captura de pantalla](.\Captura\Captura5.png)
+![Captura de pantalla](.\Captura\Captura8.png)
